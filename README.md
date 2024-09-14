@@ -14,19 +14,15 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 
 ## To start setting up the project
 
-Step 1: Clone the repo
 
-```bash
-git clone https://github.com/trulymittal/chat-socket.io.git
-```
 
-Step 2: cd into the cloned repo and run:
+Step 1: cd into the cloned repo and run:
 
 ```bash
 npm install
 ```
 
-Step 3: Start the chat app (development mode)
+Step 2: Start the chat app (development mode)
 
 ```bash
 npm run dev
@@ -38,13 +34,6 @@ Step 4: Start the chat app
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
 
 ## License
 
